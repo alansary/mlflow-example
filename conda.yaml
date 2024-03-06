@@ -2,8 +2,8 @@ name: tutorial
 channels:
   - defaults
 dependencies:
-  - numpy>=1.23.5
-  - pandas>=1.5.3
+  - numpy==1.26.4
+  - pandas
   - scikit-learn
   - pip
   - pip:
